@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"iPhone SE 2022",
+        "price":10.99,
+        "imgUrl":"https://firebasestorage.googleapis.com/v0/b/istore-ac2fd.appspot.com/o/productImages%2F1671901642100iPhone_se.jpg?alt=media&token=90658085-d501-44e1-8c36-57b435acd79b"
+    },
+    {
+        "id":2,
+        "name":"iPhone 11",
+        "price":11.99,
+        "imgUrl":"https://firebasestorage.googleapis.com/v0/b/istore-ac2fd.appspot.com/o/productImages%2F1671901478140iPhone_11.jpg?alt=media&token=ef85ccc6-2e6a-4f6a-8866-27fac1b0dd93"
+    },
+    {
+        "id":3,
+        "name":"iPhone 12",
+        "price":12.99,
+        "imgUrl":"https://firebasestorage.googleapis.com/v0/b/istore-ac2fd.appspot.com/o/productImages%2F1671901367341iPhone_12.jpg?alt=media&token=2b327a2b-4364-4d5e-a8cc-ec7dc80a31bd"
+    },
+    {
+        "id":4,
+        "name":"iPhone 14",
+        "price":14.99,
+        "imgUrl":"https://firebasestorage.googleapis.com/v0/b/istore-ac2fd.appspot.com/o/productImages%2F1671900837147iPhone_14_Pro.jpg?alt=media&token=1358eede-d6e6-4ab0-ae80-b708fe478a3d"
+    }
+]
